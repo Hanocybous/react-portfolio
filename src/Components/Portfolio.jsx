@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/white_glass.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Data Structures and Algorithms Foundations",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Article on LinkedIn to explain the importance of data structures and algorithms, and how they are used in the real world.",
+    url: "https://www.linkedin.com/pulse/data-structures-algorithms-foundation-big-charilaos-chatzidimitriou",
   },
   {
-    title: "Web Development for Beginners",
+    title: "How to Download and Install Windows 10",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Article on LinkedIn to explain how to download and install Windows 10.",
+    url: "https://www.linkedin.com/pulse/download-install-windows-10-harry-chatzidimitriou",
   },
   {
     title: "My Resume Site",
